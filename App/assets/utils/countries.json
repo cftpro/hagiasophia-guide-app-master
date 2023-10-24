@@ -1,0 +1,92 @@
+[
+  {
+    "name": "English",
+    "callingCode": "44",
+    "cca2": "EN",
+    "currency": ["EURO"],
+    "flag": "🇬🇧",
+    "color": "#373e5a",
+    "locale": "en-US"
+  },
+  {
+    "name": "German",
+    "callingCode": "44",
+    "cca2": "GE",
+    "currency": ["EURO"],
+    "flag": "🇩🇪",
+    "color": "#ffcc20",
+    "locale": "de"
+  },
+  {
+    "name": "عربي",
+    "callingCode": "91",
+    "cca2": "AE",
+    "currency": ["AED"],
+    "flag": "🇦🇪",
+    "color": "#208645",
+    "locale": "ar"
+  },
+  {
+    "name": "русский",
+    "callingCode": "43",
+    "cca2": "RU",
+    "currency": ["RUB"],
+    "flag": "🇷🇺",
+    "color": "#1a53be",
+    "locale": "ru"
+  },
+  {
+    "name": "Español",
+    "callingCode": "297",
+    "cca2": "ES",
+    "currency": ["EURO"],
+    "flag": "🇪🇸",
+    "color": "#c52d1f",
+    "locale": "es"
+  },
+  {
+    "name": "italiano",
+    "callingCode": "967",
+    "cca2": "IT",
+    "currency": ["EURO"],
+    "flag": "🇮🇹",
+    "color": "#20ab6a",
+    "locale": "it"
+  },
+  {
+    "name": "Français",
+    "callingCode": "90",
+    "cca2": "FR",
+    "currency": ["EURO"],
+    "flag": "🇫🇷",
+    "color": "#E30A17",
+    "locale": "fr"
+  },
+  {
+    "name": "中国",
+    "callingCode": "27",
+    "cca2": "CN",
+    "currency": ["CNY"],
+    "flag": "🇨🇳",
+    "color": "#d93420",
+    "locale": "zh"
+  },
+  {
+    "name": "polski",
+    "callingCode": "90",
+    "cca2": "PL",
+    "currency": ["PLN"],
+    "flag": "🇵🇱",
+    "color": "#DC143C",
+    "locale": "pl"
+  },
+  {
+    "name": "Turkey",
+    "callingCode": "90",
+    "cca2": "TR",
+    "currency": ["TRY"],
+    "flag": "🇹🇷",
+    "color": "#E30A17",
+    "locale": "tr-TR"
+  }
+]
